@@ -1,0 +1,34 @@
+filters:
+  and:
+    - file.inFolder("wiki/architects")
+    - type == "architect"
+formulas:
+  lifespan: if(born && died, born + " — " + died, if(born, born + "–", ""))
+  has_image: if(image, "📷", "")
+properties:
+  file.name:
+    displayName: 建筑师
+  born:
+    displayName: 出生
+  formula.lifespan:
+    displayName: 生卒
+  nationality:
+    displayName: 国籍
+  movements:
+    displayName: 流派
+  works:
+    displayName: 代表作品
+views:
+  - type: table
+    name: 建筑师列表
+    order:
+      - file.name
+      - formula.lifespan
+      - nationality
+      - movements
+      - works
+    sort:
+      - property: formula.lifespan
+        direction: ASC
+    columnSize:
+      note.born: 71

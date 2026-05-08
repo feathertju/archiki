@@ -1,0 +1,21 @@
+# Claude Code — 辅助 AI 内部文件（不共享）
+.claude/
+.claudian/
+
+# Claude Code — 项目规则文件（需私下维护，不上传 GitHub）
+CLAUDE.md
+
+# macOS 系统文件
+.DS_Store
+Thumbs.db
+
+# Obsidian 工作区布局（用户私有，不同设备不同）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 早期迁移遗留的 UUID 文件（内容已迁移到 wiki/）
+*.uuid.md
+
+# Web Clipper 创建的作者标签页
+Dianzhantech.md
+Lintvo.md
