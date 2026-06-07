@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 560" width="600" height="560">
+<style>
+polygon { fill: none; stroke: #2c3e50; stroke-width: 2; stroke-linejoin: round; }
+line { stroke: #2c3e50; stroke-width: 2; }
+.penrose-thin { fill: #e74c3c33; }
+.penrose-fat { fill: #3498db33; }
+</style>
+  <polygon points="570.0,280.0 535.5,327.6 470.0,280.0 470.0,280.0" class="penrose-fat"/>
+  <polygon points="383.4,536.8 352.5,536.8 352.5,441.7 352.5,441.7" class="penrose-thin"/>
+  <polygon points="81.6,438.7 81.6,379.9 162.5,379.9 162.5,379.9" class="penrose-fat"/>
+  <polygon points="81.6,121.3 106.6,103.1 162.5,180.1 162.5,180.1" class="penrose-thin"/>
+  <polygon points="383.4,23.2 418.0,70.8 352.5,118.3 352.5,118.3" class="penrose-fat"/>
+  <polygon points="450.4,389.3 425.4,407.5 369.5,330.5 369.5,330.5" class="penrose-thin"/>
+  <polygon points="242.5,456.9 208.0,409.3 273.4,361.8 273.4,361.8" class="penrose-fat"/>
+  <polygon points="114.0,280.0 123.6,250.6 214.0,280.0 214.0,280.0" class="penrose-thin"/>
+  <polygon points="242.5,103.1 298.4,121.3 273.4,198.2 273.4,198.2" class="penrose-fat"/>
+  <polygon points="450.4,170.7 460.0,200.1 369.5,229.5 369.5,229.5" class="penrose-thin"/>
+  <polygon points="636.0,280.0 601.5,327.6 536.0,280.0 536.0,280.0" class="penrose-fat"/>
+  <polygon points="571.8,477.5 546.8,495.7 490.9,418.7 490.9,418.7" class="penrose-thin"/>
+  <polygon points="403.8,599.6 347.9,581.4 372.9,504.4 372.9,504.4" class="penrose-fat"/>
+  <polygon points="196.2,599.6 171.2,581.4 227.1,504.4 227.1,504.4" class="penrose-thin"/>
+  <polygon points="28.2,477.5 28.2,418.7 109.1,418.7 109.1,418.7" class="penrose-fat"/>
+  <polygon points="-36.0,280.0 -26.5,250.6 64.0,280.0 64.0,280.0" class="penrose-thin"/>
+  <polygon points="28.2,82.5 84.1,64.3 109.1,141.3 109.1,141.3" class="penrose-fat"/>
+  <polygon points="196.2,-39.6 227.1,-39.6 227.1,55.6 227.1,55.6" class="penrose-thin"/>
+  <polygon points="403.8,-39.6 438.4,8.0 372.9,55.6 372.9,55.6" class="penrose-fat"/>
+  <polygon points="571.8,82.5 581.4,111.9 490.9,141.3 490.9,141.3" class="penrose-thin"/>
+</svg>
